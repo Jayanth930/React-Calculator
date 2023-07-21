@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Clone
+# React-Calculator
 
 <!-- PROJECT LOGO -->
 <br />
