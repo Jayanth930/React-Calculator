@@ -96,4 +96,4 @@ Your Name - Jayanth kambhampati - `kambhampatijayanth24@gmail.com`
 
 Project Repo Link Link: [(https://github.com/Jayanth930/React-Calculator.git)](https://github.com/Jayanth930/React-Calculator.git)
 
-**U can View Live App Here** -  [React-calculator](https://tic-tac-clone.onrender.com)
+**U can View Live App Here** -  [React-calculator](https://react-calculator-54fx.onrender.com)
