@@ -65,9 +65,9 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 3. Run the App
-```sh
+   ```sh
    npm run start 
-```
+   ```
 
 <!-- USAGE EXAMPLES -->
 
